@@ -35,7 +35,7 @@ Bu rehber, web geliştirmenin temel taşları olan **HTML** ve **CSS** hakkında
 
 ---
 
-### 4 Yorum Satırı (Comment Line) İçin Alternatif Tanımlar
+### 4 Yorum Satırı (Comment Line) 
 
 **1. Açıklaması**
 Kodumuzdaki bölümlerin ne işe yaradığını unutmamak için yazdığımız ve programın çalışmasını kesinlikle etkilemeyen açıklama notlarıdır.
