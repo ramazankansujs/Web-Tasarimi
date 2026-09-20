@@ -35,13 +35,20 @@ Bu rehber, web geliştirmenin temel taşları olan **HTML** ve **CSS** hakkında
 
 ---
 
-## 4. Örnek HTML Kodu ve Açıklamaları
+## 4. Yorum Satırları
+
+Kodunuzdaki bölümlerin ne işe yaradığını koda etkisi olmadan ve unutmadan not alabilmeniz için yazabilmemizi sağlayan yazı tipidir.
+
+* Örneğin:
+( <!--- ---> HTML kodları için kod olmayan, mevcut bölümün ne işe yaradığını not edebilmemizi sağlayan yorum satırıdır.
+/*   */ CSS kodları için kod olmayan, mevcut bölümün ne işe yaradığını not edebilmemizi sağlayan yorum satırıdır.
+
+## 5. Örnek HTML Kodu ve Açıklamaları
 
 Aşağıdaki örnek kodu inceleyerek temel bir HTML sayfasının yapısını görebilirsiniz:
 ---
 
-( <!--- ---> HTML kodları için kod olmayan, mevcut bölümün ne işe yaradığını not edebilmemizi sağlayan koddur.
-/*   */ CSS kodları için kod olmayan, mevcut bölümün ne işe yaradığını not edebilmemizi sağlayan koddur.
+
 
 Bunlara yorum satırı denir)
 
