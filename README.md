@@ -48,11 +48,6 @@ Kodunuzdaki bölümlerin ne işe yaradığını koda etkisi olmadan ve unutmadan
 Aşağıdaki örnek kodu inceleyerek temel bir HTML sayfasının yapısını görebilirsiniz:
 ---
 
-
-
-Bunlara yorum satırı denir)
-
-
 ```html
 <!DOCTYPE html>
 <!-- Tarayıcıya bu belgenin HTML5 ile yazıldığını bildirir. -->
