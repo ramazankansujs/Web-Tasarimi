@@ -35,12 +35,12 @@ Bu rehber, web geliştirmenin temel taşları olan **HTML** ve **CSS** hakkında
 
 ---
 
-### 4 Yorum Satırı (Comment Line) 
+## 4 Yorum Satırı (Comment Line) 
 
-# **1. Açıklaması**
+### **1. Açıklaması**
 Kodumuzdaki bölümlerin ne işe yaradığını unutmamak için yazdığımız ve programın çalışmasını kesinlikle etkilemeyen açıklama notlarıdır.
 
-# **2. Kod Üzerinde Gösterimi:**
+## **2. Kod Üzerinde Gösterimi:**
 Hangi dili kullanırsan kullan, bilgisayar yorum satırı işaretini gördüğü an o satırın geri kalanını okumadan geçer.
 
 ### Örneğin:
