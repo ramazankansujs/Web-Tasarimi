@@ -35,9 +35,13 @@ Bu rehber, web geliştirmenin temel taşları olan **HTML** ve **CSS** hakkında
 
 ---
 
-## 4. Yorum Satırları
+### 4 Yorum Satırı (Comment Line) İçin Alternatif Tanımlar
 
-Kodunuzdaki bölümlerin ne işe yaradığını koda etkisi olmadan ve unutmadan not alabilmeniz için yazabilmemizi sağlayan yazı tipidir.
+**1. Açıklaması**
+Kodumuzdaki bölümlerin ne işe yaradığını unutmamak için yazdığımız ve programın çalışmasını kesinlikle etkilemeyen açıklama notlarıdır.
+
+**2. Kod Üzerinde Gösterimi:**
+Hangi dili kullanırsan kullan, bilgisayar yorum satırı işaretini gördüğü an o satırın geri kalanını okumadan geçer.
 
 ### Örneğin:
 * ``<!--- --->`` HTML kodları için kod olmayan, mevcut bölümün ne işe yaradığını not edebilmemizi sağlayan yorum satırıdır.
