@@ -1,9 +1,9 @@
-# Keçiborlu MYO - HTML Metin Biçimlendirme Temelleri
+# HTML Metin Biçimlendirme Temelleri
 
 ##  Temel Sayfa Yapısı ve Başlıklar
 
 *   `<body bgcolor="lightblue">`: Sayfanın arka plan rengini açık mavi (lightblue) yapar.
-*   `<h1>...</h1>`: En büyük başlık etiketidir. Sayfanın ana başlıklarını (Örn: *Merhaba Keçiborlu MYO!*, *Grafik tasarım*) belirtmek için kullanılır.
+*   `<h1>...</h1>`: En büyük başlık etiketidir. Sayfanın ana başlıklarını belirtmek için kullanılır.
 *   `<p align="center">...</p>`: Paragraf (`<p>`) etiketidir. `align="center"` niteliği ile metin sayfaya ortalanmıştır.
 *   `<hr />`: Sayfaya yatay bir çizgi çeker. Konuları birbirinden ayırmak için kullanılır.
 *   `<br>`: Alt satıra geçmek için kullanılır.
@@ -43,7 +43,7 @@ HTML'de metinleri görsel olarak şekillendirmek için çeşitli etiketler bulun
 
 ---
 
-##  Örnek Orijinal Kod Blokları
+##  Örnek Kod Blokları
 
 ```html
 <!DOCTYPE html>
