@@ -36,9 +36,9 @@ HTML'de metinleri görsel olarak şekillendirmek için çeşitli etiketler bulun
 *   **`<cite>`**: Bir eserin veya kaynağın adını belirtmek (atıf yapmak) için kullanılır. Genellikle italik görünür.
 
 ### Alt ve Üst Simgeler (Matematik & Kimya)
-*   **`<sub>` **: Alt simge oluşturur. 
+   **`<sub>` **: Alt simge oluşturur. 
     *   *Örnek:* H<sub>2</sub>O (Kimyasal formüller veya log<sub>2</sub> gibi matematiksel ifadeler için).
-*   **`<sup>` **: Üst simge oluşturur. 
+   **`<sup>` **: Üst simge oluşturur. 
     *   *Örnek:* E=MC<sup>2</sup> veya 2<sup>3</sup> = 8 gibi üslü sayılar için.
 
 ---
